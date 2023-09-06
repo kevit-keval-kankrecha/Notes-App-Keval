@@ -1,0 +1,9 @@
+Date: 22/08/2023
+
+My Today's Work
+- Completed Notes Application with CRUD Operation.
+- Completed 4th Section of NodeJS Video Learning Part 1.
+- Watched Event Loop Video.
+What i have to do tomorrow
+- will complete 4th section of video learning of node js (Part-1)(Due to udemy Account error was not able to access it).
+- will complete notes application.
